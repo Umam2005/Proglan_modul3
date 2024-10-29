@@ -1,6 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * ini adalah class beli tiket
+ */
 public class PembelianTiketWisata {
+    /**
+     * ini adalah method main
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -117,5 +124,6 @@ public class PembelianTiketWisata {
         System.out.println("Jumlah Tiket Anak-anak: " + jumlahAnak);
         System.out.println("Total Harga Tiket: Rp" + hargaTiket);
         System.out.println("================== code by yusron ====================");
+        System.out.println("udede");
     }
 }
