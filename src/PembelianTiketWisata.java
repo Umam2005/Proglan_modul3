@@ -125,5 +125,6 @@ public class PembelianTiketWisata {
         System.out.println("Total Harga Tiket: Rp" + hargaTiket);
         System.out.println("================== code by yusron ====================");
         System.out.println("udede");
+        System.out.println("huhuhh");
     }
 }
