@@ -124,7 +124,6 @@ public class PembelianTiketWisata {
         System.out.println("Jumlah Tiket Anak-anak: " + jumlahAnak);
         System.out.println("Total Harga Tiket: Rp" + hargaTiket);
         System.out.println("================== code by mam's ====================");
-        System.out.println("makassar");
 
     }
 }
