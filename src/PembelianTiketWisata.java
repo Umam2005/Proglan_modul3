@@ -123,8 +123,15 @@ public class PembelianTiketWisata {
         System.out.println("Jumlah Tiket Dewasa: " + jumlahDewasa);
         System.out.println("Jumlah Tiket Anak-anak: " + jumlahAnak);
         System.out.println("Total Harga Tiket: Rp" + hargaTiket);
-        System.out.println("================== code by yusron ====================");
-        System.out.println("udede");
-        System.out.println("huhuhh");
+        System.out.println("================== code by mam's ====================");
+        System.out.println("makassar");
+
     }
 }
+
+/*git checkout -b feature/fitur-baru
+git add .
+git commit -m "menambahkan fitur baru"
+git push origin feature/fitur-baru
+
+ */
